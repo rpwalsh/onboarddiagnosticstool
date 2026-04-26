@@ -1,0 +1,54 @@
+{
+  "name": "obd2-diagnostic-tool",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Proprietary browser-based onboard diagnostics tool for ELM327-compatible adapters.",
+  "author": "Ryan Walsh",
+  "license": "PROPRIETARY",
+  "keywords": [
+    "obd2",
+    "diagnostics",
+    "automotive",
+    "elm327",
+    "veepeak",
+    "bluetooth",
+    "car",
+    "dtc"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "serve": "vite preview --port 5000",
+    "clean": "rm -rf dist node_modules package-lock.json"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.3.0",
+    "@mui/material": "^6.3.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "recharts": "^2.15.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.4",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.0",
+    "eslint": "^9.39.4",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "globals": "^17.4.0",
+    "vite": "^8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rpwalsh/onboarddiagnosticstool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rpwalsh/onboarddiagnosticstool/issues"
+  }
+}
