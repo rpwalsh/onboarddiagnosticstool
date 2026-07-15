@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Proprietary browser-based onboard diagnostics tool for ELM327-compatible adapters.",
-  "author": "Ryan Walsh",
+  "author": "Sarah Walsh",
   "license": "PROPRIETARY",
   "keywords": [
     "obd2",
@@ -46,9 +46,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rpwalsh/onboarddiagnosticstool.git"
+    "url": "https://github.com/devgrrl/onboarddiagnosticstool.git"
   },
   "bugs": {
-    "url": "https://github.com/rpwalsh/onboarddiagnosticstool/issues"
+    "url": "https://github.com/devgrrl/onboarddiagnosticstool/issues"
   }
 }

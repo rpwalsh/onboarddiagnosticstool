@@ -4,9 +4,9 @@ Onboard Diagnostics Tool is a proprietary browser-based OBD2 scanner built with 
 
 ## Rights Notice
 
-Copyright (c) 2026 Ryan Walsh. All rights reserved.
+Copyright (c) 2026 Sarah Walsh. All rights reserved.
 
-This repository is published for public viewing and professional reference only. No license is granted to use, copy, modify, distribute, deploy, or create derivative works from this software without prior written permission from Ryan Walsh. This codebase is proprietary commercial software and is not open source. See LICENSE.md.
+This repository is published for public viewing and professional reference only. No license is granted to use, copy, modify, distribute, deploy, or create derivative works from this software without prior written permission from Sarah Walsh. This codebase is proprietary commercial software and is not open source. See LICENSE.md.
 
 ## Includes
 
