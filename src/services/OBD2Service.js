@@ -361,7 +361,7 @@ class OBD2Service {
   }
 
   // Check if Web Bluetooth is supported
-  static isSupported() {
+  isSupported() {
     return 'bluetooth' in navigator;
   }
 }
