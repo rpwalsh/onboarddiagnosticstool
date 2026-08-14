@@ -2,6 +2,8 @@
 
 Onboard Diagnostics Tool is a proprietary browser-based OBD2 scanner built with React and Vite. It connects to ELM327-compatible Bluetooth adapters using Web Bluetooth.
 
+![Onboard Diagnostics Tool dashboard showing live RPM, speed, coolant temp, fuel level, engine load, throttle position, and MAF readings](docs/screenshots/dashboard.jpg)
+
 ## Rights Notice
 
 Copyright (c) 2026 Ryan P. Walsh. All rights reserved.
